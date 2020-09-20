@@ -2,6 +2,7 @@
 Written 20.09.2020
 Author: Anton Kazakevich
 Algorithm: VERY bad sort :)
+Language: Python 3.x
 '''
 
 from random import randint
