@@ -39,5 +39,5 @@ def qsort(array):
 sorted_arr = qsort(arr)
 
 #Printing the arrays
-print(arr)
-print(sorted_arr)
+print("Array before sorting -", arr)
+print("Array after sorting -", sorted_arr)
